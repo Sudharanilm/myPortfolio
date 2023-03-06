@@ -1,0 +1,115 @@
+.container {
+    background-color: aqua;
+}
+
+.footer {
+    margin-bottom: 0px;
+}
+
+.main_content {
+    margin-bottom: 128px;
+    border: 0px solid;
+    border-radius: 5px;
+    margin: 50px;
+    background-color: aqua;
+    box-shadow: 0px 0px 10px 10px #bfa6c3;
+}
+
+.main_content>p {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.title {
+    font-size: 25px;
+    line-height: -10px;
+}
+
+.paragraph {
+    font-size: 15px;
+}
+
+.image_01 {
+    height: 75%;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.logo {
+    height: 5rem;
+    margin-right: -40px;
+    cursor: pointer;
+}
+
+.navbar-collapse {
+    justify-content: space-around;
+}
+
+.Slide_imgs {
+    border: 1px solid;
+    border-radius: 20px;
+    max-width: 66%;
+    margin-left: 258px;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0px 0px 10px 10px #bfa6c3; */
+
+}
+
+.navbar-nav {
+    margin-left: 68rem;
+}
+
+.card-title {
+    margin-top: -6px;
+    padding-left: 15px;
+}
+
+.d-block {
+    overflow: hidden;
+    position: relative;
+    height: 30rem;
+    width: 10rem;
+    border-radius: 2px;
+}
+
+.fa-chevron-left {
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    padding-top: 6px;
+    border-radius: 20px;
+}
+
+.fa-chevron-right {
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    padding-top: 6px;
+    border-radius: 20px;
+}
+
+.project>p {
+    margin-left: 250px;
+    margin-bottom: 40px;
+    font-size: 35px;
+    font-weight: 600;
+    color: #0c53b1;
+}
+
+.project .text {
+    font-size: 22px;
+    margin-top: -40px;
+}
+
+.linkedin {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.card-body>span {
+    padding: 10px;
+}
